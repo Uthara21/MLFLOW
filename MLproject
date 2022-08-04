@@ -6,4 +6,4 @@ entry_points:
   main:
     parameters:
       max_leaf_nodes: int
-    command: "python test.py {max_leaf_nodes}"
+    command: "python main.py {max_leaf_nodes}"
